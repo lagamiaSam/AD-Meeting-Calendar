@@ -143,7 +143,6 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| W3Schools | Learning php, css, and themes. | w3schools.com
- |
+| W3Schools | Learning php, css, and themes. | w3schools.com|
 | ChatGPT | To guide and ask for codes | chatgpt.com |
 | Google| Search some related codes and logo | google.com |
